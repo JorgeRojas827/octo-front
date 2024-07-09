@@ -1,7 +1,7 @@
 
 ## OCTO
 
-### Descripción
+### Description
 
 Octo is a cutting-edge pull request (PR) automation system designed to streamline and enhance the workflow of software development teams. With Octo, teams can efficiently manage and trace the lifecycle of their pull requests, ensuring a seamless integration process and maintaining high code quality.
 
@@ -18,7 +18,7 @@ Octo is a cutting-edge pull request (PR) automation system designed to streamlin
        - Detailed tracking of PR metrics such as review time, merge frequency, and contributor activity.
 
 
-### Enlace de planificación de proyecto
+### Link to project planning
 
 https://sharing.clickup.com/12910672/g/h/4-90170883237-7/ad619d07fa61546
 
