@@ -18,8 +18,13 @@ Octo is a cutting-edge pull request (PR) automation system designed to streamlin
        - Detailed tracking of PR metrics such as review time, merge frequency, and contributor activity.
 
 
-### Link to project planning
+### Architecture diagram
 
-https://sharing.clickup.com/12910672/g/h/4-90170883237-7/ad619d07fa61546
+<img width="1018" alt="Captura de pantalla 2024-07-09 a la(s) 18 39 28" src="https://github.com/JorgeRojas827/octo-front/assets/65984374/9e485dba-6a63-44cc-bc9a-410dc2e60213">
+
+### Project planning
+
+Link: https://sharing.clickup.com/12910672/g/h/4-90170883237-7/ad619d07fa61546
 
 ![image](https://github.com/JorgeRojas827/octo-front/assets/65984374/bbd8336f-4bd9-4530-b13d-b57723c97f84)
+
